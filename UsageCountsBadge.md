@@ -12,14 +12,14 @@ To embed the OpenAIRE UsageCounts badge into a web page, the following simple co
 ```
 <div id="openaire-widget-div"></div>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script id="openaire-widget" src="https://beta.usagecounts.openaire.eu/widget/usageCountsDatasource.js" openaireID="openaire_datasourceID"></script>
+<script id="openaire-widget" src="https://beta.services.openaire.eu/usagecounts/usageCountsDatasource.js" openaireID="openaire_datasourceID"></script>
 ```
 
 ### Research Product badge
 ```
 <div id="openaire-widget-div"></div>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script id="openaire-widget" src="https://beta.usagecounts.openaire.eu/widget/usageCountsItem.js" itemID="item_ID"></script>
+<script id="openaire-widget" src="https://beta.services.openaire.eu/usagecounts/usageCountsItem.js" itemID="item_ID"></script>
 ```
 
 ### Badge Parameters
